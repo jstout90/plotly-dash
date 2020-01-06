@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-cat-app/static/js/main.fafd0fcd.chunk.js",
+    "main.js.map": "/react-cat-app/static/js/main.fafd0fcd.chunk.js.map",
+    "runtime-main.js": "/react-cat-app/static/js/runtime-main.c1653e8a.js",
+    "runtime-main.js.map": "/react-cat-app/static/js/runtime-main.c1653e8a.js.map",
+    "static/js/2.42b9a74f.chunk.js": "/react-cat-app/static/js/2.42b9a74f.chunk.js",
+    "static/js/2.42b9a74f.chunk.js.map": "/react-cat-app/static/js/2.42b9a74f.chunk.js.map",
+    "index.html": "/react-cat-app/index.html",
+    "precache-manifest.41e26d9921f8e7ba02fabeb21b74170b.js": "/react-cat-app/precache-manifest.41e26d9921f8e7ba02fabeb21b74170b.js",
+    "service-worker.js": "/react-cat-app/service-worker.js",
+    "static/js/2.42b9a74f.chunk.js.LICENSE": "/react-cat-app/static/js/2.42b9a74f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1653e8a.js",
+    "static/js/2.42b9a74f.chunk.js",
+    "static/js/main.fafd0fcd.chunk.js"
+  ]
+}
